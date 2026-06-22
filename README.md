@@ -27,10 +27,6 @@ Desenvolver uma base sólida em dados através da prática contínua, explorando
 - Criação de dashboards
 - Visualização de dados
 
-### 🧪 Mini Projetos
-- Pequenas análises exploratórias
-- Testes com datasets reais
-
-## 🚀 Em desenvolvimento
+## Em desenvolvimento
 
 Este repositório está em constante evolução conforme avanço nos estudos e aplico novos conceitos.
